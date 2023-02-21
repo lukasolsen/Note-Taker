@@ -1,0 +1,10 @@
+{
+    "name": "Note Taker",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Take notes quickly with this extension.",
+    "action": {
+        "default_title": "Take notes",
+        "default_popup": "popup.html"
+    }
+}
